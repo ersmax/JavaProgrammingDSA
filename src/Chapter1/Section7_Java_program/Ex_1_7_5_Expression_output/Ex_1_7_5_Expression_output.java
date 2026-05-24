@@ -11,7 +11,7 @@ public class Test {
  */
 
 package Chapter1.Section7_Java_program.Ex_1_7_5_Expression_output;
-
+/** questa classe server per calcolare qualcosa */
 public class Ex_1_7_5_Expression_output {
     public static void main(String[] args) {
         System.out.println("3.5 * 4 / 2 – 2.5 is ");
