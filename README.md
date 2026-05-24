@@ -41,43 +41,43 @@ PS D:\Java\JavaDSA\JavaProgrammingDSA\src> java -ea Chapter1.Section7_Java_progr
 # Chapter 1 – Introduction to Computers, Programs and Java
 
 ## Section 2 – Computer
-1. [Hardware software](src/Chapter1/Section2_Computer/Ex_1_2_1_Hardware_software) — Explain terms
-2. [Components](src/Chapter1/Section2_Computer/Ex_1_2_2_Components) — Hardware components
-3. [CPU speed](src/Chapter1/Section2_Computer/Ex_1_2_3_CPU_speed) — Measurement of CPU speed
-4. [Bit byte](src/Chapter1/Section2_Computer/Ex_1_2_4_Bit_byte) — Bits and bytes
-5. [Memory](src/Chapter1/Section2_Computer/Ex_1_2_5_Memory) — Primary memory capabilities
-6. [Memory size](src/Chapter1/Section2_Computer/Ex_1_2_6_Memory_size) — Memory size units
-7. [Memory Disk](src/Chapter1/Section2_Computer/Ex_1_2_7_Memory_Disk) — Memory vs Disk storage
+1. [Hardware software](src/Chapter1/Section2_Computer/Ex_1_2_1_Hardware_software/Ex_1.2.1_Hardware_software.md) — Explain terms
+2. [Components](src/Chapter1/Section2_Computer/Ex_1_2_2_Components/Ex_1.2.2_Components.md) — Hardware components
+3. [CPU speed](src/Chapter1/Section2_Computer/Ex_1_2_3_CPU_speed/Ex_1.2.3_CPUS_speed.md) — Measurement of CPU speed
+4. [Bit byte](src/Chapter1/Section2_Computer/Ex_1_2_4_Bit_byte/Ex_1.2.4_Bit_byte.md) — Bits and bytes
+5. [Memory](src/Chapter1/Section2_Computer/Ex_1_2_5_Memory/Ex_1.2.5_Memory.md) — Primary memory capabilities
+6. [Memory size](src/Chapter1/Section2_Computer/Ex_1_2_6_Memory_size/Ex_1.2.6_Memory_size.md) — Memory size units
+7. [Memory Disk](src/Chapter1/Section2_Computer/Ex_1_2_7_Memory_Disk/Ex_1.2.7_Memory_disk.md) — Memory vs Disk storage
 
 ## Section 3 – Programming languages
-1. [CPU language](src/Chapter1/Section3_Programming_languages/Ex_1_3_1_CPU_language) — CPU machine language
-2. [Assembly](src/Chapter1/Section3_Programming_languages/Ex_1_3_2_Assembly) — Assembly language basics
-3. [High level language](src/Chapter1/Section3_Programming_languages/Ex_1_3_3_High_level_language) — High-level programming overview
-4. [Compiler interpreter](src/Chapter1/Section3_Programming_languages/Ex_1_3_4_Compiler_interpreter) — Compilers vs Interpreters
-5. [Compiled interpreted language](src/Chapter1/Section3_Programming_languages/Ex_1_3_5_Compiled_interpreted_language) — Language compilation types
+1. [CPU language](src/Chapter1/Section3_Programming_languages/Ex_1_3_1_CPU_language/Ex_1.3.1_CPU_language.md) — CPU machine language
+2. [Assembly](src/Chapter1/Section3_Programming_languages/Ex_1_3_2_Assembly/Ex_1.3.2_Assembly.md) — Assembly language basics
+3. [High level language](src/Chapter1/Section3_Programming_languages/Ex_1_3_3_High_level_language/Ex_1.3.3_High_level_language.md) — High-level programming overview
+4. [Compiler interpreter](src/Chapter1/Section3_Programming_languages/Ex_1_3_4_Compiler_interpreter/Ex_1.3.4_Compiler_interpreter.md) — Compilers vs Interpreters
+5. [Compiled interpreted language](src/Chapter1/Section3_Programming_languages/Ex_1_3_5_Compiled_interpreted_language/Ex_1.3.5_Compiled_interpreted_language.md) — Language compilation types
 
 ## Section 4 – OS
-1. [OS operations](src/Chapter1/Section4_OS/Ex_1_4_1_OS_operations) — Introduction to Operating Systems
-2. [OS Responsibilities](src/Chapter1/Section4_OS/Ex_1_4_2_OS_Responsibilities) — Key OS responsibilities
-3. [Multiprogramming multithreading multiprocessing](src/Chapter1/Section4_OS/Ex_1_4_3_Multiprogramming_multithreading_multiprocessing) — Concurrency and processing
+1. [OS operations](src/Chapter1/Section4_OS/Ex_1_4_1_OS_operations/Ex_1.4.1_OS_operations.md) — Introduction to Operating Systems
+2. [OS Responsibilities](src/Chapter1/Section4_OS/Ex_1_4_2_OS_Responsibilities/Ex_1.4.2_OS_Responsibilities.md) — Key OS responsibilities
+3. [Multiprogramming multithreading multiprocessing](src/Chapter1/Section4_OS/Ex_1_4_3_Multiprogramming_multithreading_multiprocessing/Ex_1_4_3_Multiprogramming_multithreading_multiprocessing.md) — Concurrency and processing
 
 ## Section 5 – Java, World Wide Web, and Beyond
-1. [Java owner](src/Chapter1/Section5_Java_world_wide_web/Ex_1_5_1_Java_owner) — Origins and ownership of Java
-2. [Java applets](src/Chapter1/Section5_Java_world_wide_web/Ex_1_5_2_Java_applets) — Concept of Applets
-3. [Android](src/Chapter1/Section5_Java_world_wide_web/Ex_1_5_3_Android) — Java in mobile development
+1. [Java owner](src/Chapter1/Section5_Java_world_wide_web/Ex_1_5_1_Java_owner/Ex_1.5.1_Java_owner.md) — Origins and ownership of Java
+2. [Java applets](src/Chapter1/Section5_Java_world_wide_web/Ex_1_5_2_Java_applets/Ex_1.5.2_Java_applets.md) — Concept of Applets
+3. [Android](src/Chapter1/Section5_Java_world_wide_web/Ex_1_5_3_Android/Ex_1.5.3_Android.md) — Java in mobile development
 
 ## Section 6 – The Java Language Specification, API, JDK, JRE, and IDE
-1. [Java language Spec](src/Chapter1/Section6_Java_language_spec/Ex_1_6_1_Java_language_Spec) — API and language specification
-2. [JDK JRE](src/Chapter1/Section6_Java_language_spec/Ex_1_6_2_JDE_JRE) — Distinguishing JDK and JRE
-3. [IDE](src/Chapter1/Section6_Java_language_spec/Ex_1_6_3_IDE) — Integrated Development Environments
-4. [IDE examples](src/Chapter1/Section6_Java_language_spec/Ex_1_6_4_IDE_examples) — Examples of popular IDEs
+1. [Java language Spec](src/Chapter1/Section6_Java_language_spec/Ex_1_6_1_Java_language_Spec/Ex_1.6.1_Java_language_spec.md) — API and language specification
+2. [JDK JRE](src/Chapter1/Section6_Java_language_spec/Ex_1_6_2_JDE_JRE/Ex_1.6.2_JDE_JRE.md) — Distinguishing JDK and JRE
+3. [IDE](src/Chapter1/Section6_Java_language_spec/Ex_1_6_3_IDE/Ex_1.6.3_IDE.md) — Integrated Development Environments
+4. [IDE examples](src/Chapter1/Section6_Java_language_spec/Ex_1_6_4_IDE_examples/Ex_1.6.4_IDE_examples.md) — Examples of popular IDEs
 
 ## Section 7 – A Simple Java Program
-1. [Welcome](src/Chapter1/Section7_Java_program/Demo_1_01_Welcome) — First Java Program
-2. [Welcome 3 times](src/Chapter1/Section7_Java_program/Demo_1_02_Welcome_3_times) — Printing text multiple times
-3. [Expressions](src/Chapter1/Section7_Java_program/Demo_1_03_Expressions) — Mathematical expressions
-4. [Java keyword](src/Chapter1/Section7_Java_program/Ex_1_7_1_Java_keyword) — Reserved keywords
-5. [Java naming conventions](src/Chapter1/Section7_Java_program/Ex_1_7_2_Java_naming_conventions) — Naming classes and files
-6. [Java comments](src/Chapter1/Section7_Java_program/Ex_1_7_3_Java_comments) — Use of code comments
-7. [Print statement](src/Chapter1/Section7_Java_program/Ex_1_7_4_Print_statement) — Console output variations
-8. [Expression output](src/Chapter1/Section7_Java_program/Ex_1_7_5_Expression_output) — Evaluating an expression
+1. [Welcome](src/Chapter1/Section7_Java_program/Demo_1_01_Welcome/Demo_1_01_Welcome.java) — First Java Program
+2. [Welcome 3 times](src/Chapter1/Section7_Java_program/Demo_1_02_Welcome_3_times/Demo_1_02_Welcome_3_times.java) — Printing text multiple times
+3. [Expressions](src/Chapter1/Section7_Java_program/Demo_1_03_Expressions/Demo_1_03_Expressions.java) — Mathematical expressions
+4. [Java keyword](src/Chapter1/Section7_Java_program/Ex_1_7_1_Java_keyword/Ex_1_7_1_Java_keyword.md) — Reserved keywords
+5. [Java naming conventions](src/Chapter1/Section7_Java_program/Ex_1_7_2_Java_naming_conventions/Ex_1_7_2_Java_naming_conventions.md) — Naming classes and files
+6. [Java comments](src/Chapter1/Section7_Java_program/Ex_1_7_3_Java_comments/Ex_1_7_3_Java_comments.md) — Use of code comments
+7. [Print statement](src/Chapter1/Section7_Java_program/Ex_1_7_4_Print_statement/Ex_1_7_4_Print_statement.md) — Console output variations
+8. [Expression output](src/Chapter1/Section7_Java_program/Ex_1_7_5_Expression_output/Ex_1_7_5_Expression_output.java) — Evaluating an expression
