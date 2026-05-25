@@ -1,5 +1,4 @@
 1.3.1 What language does the CPU understand?
-
 ---
 
 The machine language is a set of primitive instructions built into every computer (binary code). 

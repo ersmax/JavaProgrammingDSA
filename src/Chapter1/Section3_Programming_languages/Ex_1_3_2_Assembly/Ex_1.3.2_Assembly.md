@@ -1,5 +1,4 @@
 1.3.2 What is an assembly language? What is an assembler?
-
 ---
 
 Assembly language is a low-level programming language in which a mnemonic

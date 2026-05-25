@@ -1,5 +1,4 @@
 1.2.7 What is the primary difference between memory and a storage device?
-
 ---
 
 Memory is volatile, because information is lost when the power is turned off. 

@@ -1,6 +1,4 @@
-1.8.7 If a NoClassDefFoundError occurs when you run a program, what is the cause
-of the error?
-
+1.8.7 If a NoClassDefFoundError occurs when you run a program, what is the cause of the error?
 ---
 
 Java interpreter cannot find the .class file. 

@@ -1,5 +1,4 @@
-1.2.5 What is memory for? What does RAM stand for? Why is memory called RAM?
-
+1.2.4 What is memory for? What does RAM stand for? Why is memory called RAM?
 ---
 
 Memory is like a work area for programs. 

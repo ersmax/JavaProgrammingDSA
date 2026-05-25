@@ -1,5 +1,4 @@
 1.4.3 What are multiprogramming, multithreading, and multiprocessing?
-
 ---
 
 Multiprogramming allows multiple programs to run simultaneously by sharing the CPU. 

@@ -1,5 +1,4 @@
 1.2.1. What are hardware and software?
-
 ---
 
 A computer is an electronic device that stores and processes data. 

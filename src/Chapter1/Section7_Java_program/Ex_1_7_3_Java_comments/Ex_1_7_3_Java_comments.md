@@ -1,6 +1,4 @@
-1.7.3 What is a comment? Is the comment ignored by the compiler? How do you denote a
-comment line and a comment paragraph?
-
+1.7.3 What is a comment? Is the comment ignored by the compiler? How do you denote a comment line and a comment paragraph?
 ---
 
 Comments are used to document what a program is for and how a program is constructed. 

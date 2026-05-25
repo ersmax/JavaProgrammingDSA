@@ -1,5 +1,4 @@
 1.4.1 What is an operating system? List some popular operating systems.
-
 ---
 
 The operating system (OS) is a program that manages and controls a computer's activities. 

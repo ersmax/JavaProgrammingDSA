@@ -1,5 +1,4 @@
 1.3.5 What is the difference between an interpreted language and a compiled language?
-
 ---
 
 An interpreter reads one statement from the source code, and translates it to the machine code or virtual machine code, 

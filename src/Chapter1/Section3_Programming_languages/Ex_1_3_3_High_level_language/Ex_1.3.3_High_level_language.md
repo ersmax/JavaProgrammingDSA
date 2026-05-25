@@ -1,5 +1,4 @@
 1.3.3 What is a high-level programming language? What is a source program?
-
 ---
 
 The high-level languages are English-like and easy to learn and program.

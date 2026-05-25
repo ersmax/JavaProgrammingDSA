@@ -1,5 +1,4 @@
 1.3.4 What is an interpreter? What is a compiler?
-
 ---
 
 An interpreter is a software that reads one statement from the source code, 
