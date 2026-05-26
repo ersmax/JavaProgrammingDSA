@@ -1,0 +1,21 @@
+2.5.1 Identify and fix the errors in the following code:
+-
+```Java
+public class Test {
+    public static void main(String[] args) {
+        int i = k + 2;
+        System.out.println(i);
+    }
+}
+```
+
+corrected version:
+```Java
+public class Test {
+    public static void main(String[] args) {
+        int k = 0;
+        int i = k + 2;
+        System.out.println(i);
+    }
+}
+```
