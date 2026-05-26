@@ -40,7 +40,6 @@ PS D:\Java\JavaDSA\JavaProgrammingDSA\src> java -ea Chapter1.Section7_Java_progr
 
 ##### Chapter 1 – Introduction to Computers, Programs and Java
 
-#file:Chapter1
 ###### Section 2 – Computer
 1. [Hardware software](src/Chapter1/Section2_Computer/Ex_1_2_1_Hardware_software/Ex_1.2.1_Hardware_software.md) — Explain terms
 2. [Components](src/Chapter1/Section2_Computer/Ex_1_2_2_Components/Ex_1.2.2_Components.md) — Hardware components
