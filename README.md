@@ -102,3 +102,15 @@ PS D:\Java\JavaDSA\JavaProgrammingDSA\src> java -ea Chapter1.Section7_Java_progr
 4. [Runtime error](src/Chapter1/Section10_Programming_errors/Ex_1_10_4_Runtime_error/Ex_1_10_4_Runtime_error.md) — Errors during execution
 5. [Logic error](src/Chapter1/Section10_Programming_errors/Ex_1_10_5_Logic_error/Ex_1_10_5_Logic_error.md) — Incorrect program logic
 6. [Fix errors](src/Chapter1/Section10_Programming_errors/Ex_1_10_6_Fix_errors/Ex_1_10_6_Fix_errors.md) — How to locate and fix errors
+
+##### Chapter 2 – Elementary programming
+
+###### Section 2 – Writing a simple program
+- [Demo ComputeArea](src/Chapter2/Section2_Writing/Demo_2_1_ComputeArea/ComputeArea.java) — Compute the area of a circle (demo)
+1. [String concatenation](src/Chapter2/Section2_Writing/Ex_2_2_1_String_concatenation/Ex_2_2_1_String_concatenation.md) — Identify and fix string concatenation errors (exercise)
+
+###### Section 3 – Reading input from the console
+- [Demo ComputeAreaWithConsoleInput](src/Chapter2/Section3_Reading_input/Demo_2_2_ComputeAreaWithConsoleInput/ComputeAreaWithConsoleInput.java) — Read radius from console and compute area (demo)
+- [Demo ComputeAverage](src/Chapter2/Section3_Reading_input/Demo_2_3_ComputeAverage/ComputeAverage.java) — Read three numbers and compute their average (demo)
+1. [Input error](src/Chapter2/Section3_Reading_input/Ex_2_3_1_Input_error/Ex_2_3_1_Input_error.md) — What happens on invalid input (exercise)
+2. [Specific vs wildcard import](src/Chapter2/Section3_Reading_input/Ex_2_3_2_Specific_Wildcard_import/Ex_2_3_2_Specific_Wildcard_import.md) — Specific and wildcard import differences (exercise)
