@@ -1,0 +1,16 @@
+2.9.6 Are the following statements correct? If so, show the output.
+-
+System.out.println("25 / 4 is " + 25 / 4);
+
+System.out.println("25 / 4.0 is " + 25 / 4.0);
+
+System.out.println("3 * 2 / 4 is " + 3 * 2 / 4);
+
+System.out.println("3.0 * 2 / 4 is " + 3.0 * 2 / 4);
+
+---
+
+- 6
+- 6.25
+- 1
+- 1.5

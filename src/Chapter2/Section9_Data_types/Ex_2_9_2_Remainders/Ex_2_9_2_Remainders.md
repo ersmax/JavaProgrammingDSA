@@ -1,0 +1,8 @@
+2.9.2 Show the result of the following remainders:
+-
+- 56 % 6 = 2
+- 78 % -4 = 2
+- -34 % 5 = -4
+- -34 % -5 = -4
+- 5 % 1 = 0
+- 1 % 5 = 1
